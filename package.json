@@ -1,0 +1,19 @@
+{
+  "name": "algo-expert-solutions",
+  "version": "1.0.0",
+  "description": "alog expert solutions",
+  "main": "two-numbers.js",
+  "scripts": {
+    "test": "node two-numbers.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abrish-b/Algo-expert-solutions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abrish-b/Algo-expert-solutions/issues"
+  },
+  "homepage": "https://github.com/Abrish-b/Algo-expert-solutions#readme"
+}
